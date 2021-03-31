@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">InClass08</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Submit">Submit</string>
+    <string name="login">Login</string>
+    <string name="register_account">Create a New Account</string>
+    <string name="login_success">login succesful</string>
+    <string name="logout_button">Logout</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="valid_name">enter valid  name</string>
+    <string name="valid_email">enter valid email</string>
+    <string name="valid_password">enter valid password</string>
+    <string name="account">Account</string>
+    <string name="update_account">Update Account</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Register">Register Account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forum_description" />
+    <string name="forum_title" />
+    <string name="comments" />
+    <string name="logout_label">Logout</string>
+    <string name="new_forum">New forum</string>
+    <string name="forums">Forums</string>
+    <string name="forum">Forum</string>
+    <string name="authorname" />
+    <string name="description" />
+    <string name="null_title">Empty title</string>
+    <string name="null_Description">Empty Description</string>
+    <string name="Time_stamp" />
+</resources>
